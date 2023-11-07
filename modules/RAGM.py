@@ -71,7 +71,6 @@ class Aggregator(nn.Module):
         neigh_emb = user_emb[user_index]
         y_ = scatter_mean(src=neigh_emb, index=item_index, dim_size=n_entities, dim=0)
         center_emb = y_[item_index]
-        # temp = center_emb * neigh_emb
         sim = torch.sum(relation_ui * center_emb, dim=1)
         n, d = neigh_emb.size()
         sim = torch.unsqueeze(sim, dim=1)
