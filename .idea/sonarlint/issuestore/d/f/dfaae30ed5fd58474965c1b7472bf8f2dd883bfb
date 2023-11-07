@@ -1,0 +1,20 @@
+
+opython:S100"LRename method "stageOne" to match the regular expression ^[a-z_][a-z0-9_]*$.(˜ÂÙ÷úÿÿÿÿ8òÀ˜é¯0
+upython:S1173"WRename this local variable "allPos" to match the regular expression ^[_a-z][a-z0-9_]*$.(Ü´Üğ8óÀ˜é¯0
+~python:S1179"[Rename this local variable "posForUser" to match the regular expression ^[_a-z][a-z0-9_]*$.(©–Úåüÿÿÿÿ8óÀ˜é¯0
+€python:S1542("\Rename function "UniformSample_original" to match the regular expression ^[a-z_][a-z0-9_]*$.(”‘´ÿÿÿÿÿ8óÀ˜é¯0
+=python:S125@"Remove this commented out code.(ëò«£8óÀ˜é¯0
+}python:S1542d"YRename function "RecallPrecision_ATk" to match the regular expression ^[a-z_][a-z0-9_]*$.(µòÔ£ÿÿÿÿÿ8óÀ˜é¯0
+rpython:S1542s"NRename function "MRRatK_r" to match the regular expression ^[a-z_][a-z0-9_]*$.(‹‰Ùøÿÿÿÿ8óÀ˜é¯0
+spython:S1542~"ORename function "NDCGatK_r" to match the regular expression ^[a-z_][a-z0-9_]*$.(­ßÈ·øÿÿÿÿ8ôÀ˜é¯0
+npython:S1542”"IRename function "AUC" to match the regular expression ^[a-z_][a-z0-9_]*$.(ØêÊÏùÿÿÿÿ8ôÀ˜é¯0
+tpython:S1226”"OIntroduce a new variable or use its initial value before reassigning 'dataset'.(ØêÊÏùÿÿÿÿ8ôÀ˜é¯0
+python:S117£"[Rename this local variable "groundTrue" to match the regular expression ^[_a-z][a-z0-9_]*$.(¥„¾ùÿÿÿÿ8ôÀ˜é¯0
+€python:S117¤"\Rename this local variable "predictTopK" to match the regular expression ^[_a-z][a-z0-9_]*$.(ŸÍòÓıÿÿÿÿ8ôÀ˜é¯0
+npython:S1542 "NRename function "getLabel" to match the regular expression ^[a-z_][a-z0-9_]*$.(³±…Û8õÀ˜é¯0
+Åpython:S1515¥"¤Add a parameter to the parent lambda function and use variable "groundTrue" as its default value; The value of "groundTrue" might change at the next loop iteration.(ÉûÚ¼8õÀ˜é¯0
+spython:S117µ"TRename this local variable "PaN" to match the regular expression ^[_a-z][a-z0-9_]*$.(º™şÂ8õÀ˜é¯0
+{python:S117»"WRename this local variable "Recall" to match the regular expression ^[_a-z][a-z0-9_]*$.(ò°¶Êøÿÿÿÿ8õÀ˜é¯0
+ppython:S117­"QRename this parameter "UEdic" to match the regular expression ^[_a-z][a-z0-9_]*$.(ÔØ‚©8öÀ˜é¯0
+mpython:S1542­"MRename function "accessF" to match the regular expression ^[a-z_][a-z0-9_]*$.(ÔØ‚©8öÀ˜é¯0
+tpython:S3776­"TRefactor this function to reduce its Cognitive Complexity from 32 to the 15 allowed.(ÔØ‚©8öÀ˜é¯0

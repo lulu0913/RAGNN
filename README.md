@@ -1,2 +1,1 @@
-# RAGNN
-Code for our jornal paper.
+# kg-free
