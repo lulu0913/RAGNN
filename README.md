@@ -14,7 +14,18 @@ Relation-Aware Graph Nerual Network (RAGNN) is designed for user and item encodi
 If you want to use our codes and datasets in your research, please cite:
 
 ```
-xxx
+@article{LU2024119834,
+title = {Distinguishing latent interaction types from implicit feedbacks for recommendation},
+journal = {Information Sciences},
+volume = {654},
+pages = {119834},
+year = {2024},
+issn = {0020-0255},
+doi = {https://doi.org/10.1016/j.ins.2023.119834},
+url = {https://www.sciencedirect.com/science/article/pii/S0020025523014196},
+author = {Lingyun Lu and Bang Wang and Zizhuo Zhang and Shenghao Liu},
+keywords = {Recommendation system, Graph neural network, Self-supervised learning}
+}
 ```
 
 ## Environment Requirement
