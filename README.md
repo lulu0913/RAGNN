@@ -1,6 +1,6 @@
 # Distinguishing Latent Interaction Types from Implicit Feedbacks for Recommendation
 
-This is the PyTorch Implementation for the paper [RAGM](http:xxx):
+This is the PyTorch Implementation for the paper [RAGM](https://www.sciencedirect.com/science/article/pii/S0020025523014196):
 
 > Lingyun Lu, Bang Wang, Zizhuo Zhang and Shenghao Liu. Distinguishing Latent Interaction Types from Implicit Feedbacks for Recommendation.
 
